@@ -58,29 +58,4 @@ It demonstrates OOP principles such as **classes**, **inheritance**, **encapsula
 
 python coin_system.py
 
-You will see:
 
-Information about different euro coins.
-
-Random coin flip results.
-
-Wallet operations (add, sort, sum, remove).
-
-Piggy bank aggregation.
-
-Stack and queue operations.
-
-🎓 What This Project Demonstrates
-
-Object-Oriented Programming in Python
-
-Inheritance (Eurocoin extends Coin)
-
-Working with lists and dictionaries
-
-Implementing stack (LIFO) and queue (FIFO) behavior
-
-Clean and structured console-based logic
-
-
----
